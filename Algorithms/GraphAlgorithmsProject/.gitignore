@@ -1,0 +1,40 @@
+*.pydevproject
+.metadata
+.gradle
+input*
+output*
+*.class
+tmp/
+*.tmp
+*.bak
+*.swp
+*.csv
+MST*
+*.pdf
+*.odt
+*.txt
+*.zip
+*.ods
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# TeXlipse plugin
+.texlipsesrc/261ProjectPart2SRC.zip
+src/261ProjectPart2SRC.zip

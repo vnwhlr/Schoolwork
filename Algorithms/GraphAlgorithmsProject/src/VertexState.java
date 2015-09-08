@@ -1,0 +1,4 @@
+
+public enum VertexState {
+	UNDISCOVERED, DISCOVERED, VISITING, VISITED
+}
